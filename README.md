@@ -1,9 +1,8 @@
-## Opa opa, seja muito bem-vindo!╰(*°▽°*)╯
+## hey hey, welcome╰(*°▽°*)╯
 
-- 🔭 estudando 2º ano do ensino médio
-- 📫 intagram: _falt_34
-- 😄 ele/dele
-- ⚡ definitivamente um entusiasta da aviação na segunda guerra mundial 😊 avião favorito✈: ME 262
+- 🔭 studying computer engineering
+- 📫 intagram: https://www.instagram.com/faltizin/#
+- ⚡ data engineer🎲, data scientist🎲🎲 and A.I engineer🤖 (maybe a low-code cybersecurity enthusiast, who knows...0️⃣1️⃣)
 
 <div align="center">
   <a href="https://github.com/maurifalt">
